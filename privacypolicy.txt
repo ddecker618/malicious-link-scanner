@@ -1,0 +1,47 @@
+Privacy Policy
+Effective Date: April 24, 2025
+
+1. Introduction
+This Privacy Policy explains how Dustin Decker (“we,” “our,” or “us”) handles information when you use the Malicious Link Scanner proof-of-concept application (“App”). By installing or using the App, you agree to the practices described here.
+
+2. Information We Collect
+
+    Message Data: Text of incoming messages from Meta platforms (Facebook Messenger, Instagram Direct, WhatsApp Business).
+
+    Extracted URLs: Any web links parsed from those messages.
+
+    Meta Identifiers: Sender or thread IDs supplied by Meta APIs (no full user profiles or additional personal details).
+
+    Usage Metrics: Timestamps and scan-count statistics for performance monitoring.
+
+3. How We Use Your Information
+
+    Threat Analysis: Forward each extracted URL to the VirusTotal Premium API for security scanning.
+
+    App Functionality: Enable message parsing, rate-limit management, and error handling.
+
+    Performance Monitoring: Collect anonymized metrics to ensure the App runs smoothly.
+
+4. Data Retention
+We do not store any message data, URLs, or scan results beyond the moment they are processed. Once a URL is submitted for scanning and the result is retrieved, all related data is immediately discarded.
+
+5. Information Sharing
+
+    VirusTotal: URLs are sent directly to VirusTotal for analysis under their own Privacy Policy.
+
+    Meta Platforms: We do not share any data back to Facebook, Instagram, or WhatsApp beyond normal API requests.
+
+    No Third-Party Distribution: We do not sell, rent, or distribute your data to any other parties.
+
+6. Security
+We employ reasonable safeguards (HTTPS for webhooks and API calls, secured API-key storage) to protect data in transit. However, no system is entirely immune to risk.
+
+7. Children’s Privacy
+This App is not intended for users under 13. We do not knowingly collect personal data from anyone under 13.
+
+8. Changes to This Policy
+We may update this policy at any time. The “Effective Date” will indicate the latest revision. Continued use of the App constitutes acceptance of any changes.
+
+9. Contact
+If you have questions or concerns, please contact:
+Dustin Decker
